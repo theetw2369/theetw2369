@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @theetw2369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 theetw2369/theetw2369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,14 +60,12 @@ The application is built using modern web technologies including:
 - Network admin privileges to control device connections
 - API access to smart devices (for full functionality)
 
-## License
-[Your License Information]
+## Social-Chain-Solutions-Sole Proprietary 
 
 ## Contributions
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
 
 ## Author
-[Your Name/Organization]
+Wayne B.Kimball 
 
 ---
 
