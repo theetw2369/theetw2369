@@ -69,4 +69,4 @@ Wayne B.Kimball
 
 ---
 
-*Smart Device Disconnect - Take control of your connected world*in 
+*Smart Device Disconnect - Take control of your connected world*
